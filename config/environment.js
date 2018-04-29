@@ -4,6 +4,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-solid-components',
+    podModulePrefix: 'ember-solid-components/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
